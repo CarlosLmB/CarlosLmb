@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Carlos</h1>
-<h3 align="left">A passionate Full-stack developer with a background in technical recruitment, offering a unique dual perspective to the tech industry</h3>
+<h3 align="left">Full-Stack Developer | Bridging Technical Excellence and Recruitment Insight</h3>
 
-I'm a motivated and agile developer with a solid foundation in building end-to-end web applications. My expertise has been forged through **hands-on projects** and **open-source contributions**, specializing in transforming complex challenges into **scalable and efficient technical solutions**.
+As a former technical recruiter, I've spent countless hours analyzing code and understanding what makes a great developer thrive. Now, I'm channeling that unique insight into my own journey as a **full-stack developer**. I offer a rare perspective that understands not just how to write code, but how to build software within effective teams and align with business goals from day one.
 
-I am eager to collaborate with dynamic teams where I can contribute my commitment to **best practices** and my passion for developing software with **real impact**.
+My expertise is being forged through intense, hands-on project building and contributions to **open-source communities**. I am passionate about transforming complex problems into **clean, efficient, and user-centric solutions**. I am actively seeking a collaborative team where I can contribute my **strong foundation in modern tech stacks**, my unwavering commitment to **learning best practices**, and my unique ability to bridge technical and team dynamics to create **real impact**.
 
 ---
 
