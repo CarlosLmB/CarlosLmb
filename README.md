@@ -3,7 +3,7 @@
 
 I'm a motivated and agile developer with a solid foundation in building end-to-end web applications. My expertise has been forged through **hands-on projects** and **open-source contributions**, specializing in transforming complex challenges into **scalable and efficient technical solutions**.
 
-I am eager to collaborate with dynamic teams where I can contribute my commitment to **best practices** and my passion for developing software with **real impact**
+I am eager to collaborate with dynamic teams where I can contribute my commitment to **best practices** and my passion for developing software with **real impact**.
 
 ---
 
