@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Carlos Cordero</h1>
+<h1 align="left">Hi 👋, I'm Carlos</h1>
 <h3 align="left">A passionate Full-stack developer with a background in technical recruitment, offering a unique dual perspective to the tech industry</h3>
 
 I'm a motivated and agile developer with a solid foundation in building end-to-end web applications. My expertise has been forged through **hands-on projects** and **open-source contributions**, specializing in transforming complex challenges into **scalable and efficient technical solutions**.
