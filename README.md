@@ -22,23 +22,34 @@ My expertise is being forged through intense, hands-on project building and cont
 
 **Languages:** Javascript, Python, Java
 
-**Frontend:** JavaScript, React, Next.js, Tailwind 
+**Frontend:** React, Next.js, Tailwind 
 
 **Backend:** Node.js
 
 **Database:** MongoDB, PostgreSQL, GraphQL 
 
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carloslmb&show_icons=true&locale=en&layout=compact" alt="carloslmb" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carloslmb&show_icons=true&locale=en" alt="carloslmb" /></p>
+<p align="center">
+<a href="https://github.com/CarlosLmb">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=carloslmb&show_icons=true&locale=en&layout=compact&theme=algolia&include_all_commits=true&count_private=true" alt="carloslmb" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloslmb&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="carloslmb" />
+</a>
+</p>
 
 ---
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/carlos-cordero-j/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carlos-cordero-j/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/carlos-cordero-j/" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" style="margin-right: 10px;" />
+  </a>
+  <a href="mailto:chucklmb.dev@gmail.com" style="margin-right: 10px;">
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40" />
+  </a>
 </p>
+
 
 
 
