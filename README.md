@@ -48,8 +48,8 @@ My expertise is being forged through intense, hands-on project building and cont
   <a href="mailto:chucklmb.dev@gmail.com" style="margin-right: 10px;">
     <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40" />
   </a>
+  <a href="https://stackoverflow.com/users/19479890/carlos-cordero" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="StackOverflow" height="40" width="40" style="margin-right: 10px;" />
 </p>
-
-
 
 
