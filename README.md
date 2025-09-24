@@ -28,6 +28,8 @@ My expertise is being forged through intense, hands-on project building and cont
 
 **Database:** MongoDB, PostgreSQL, GraphQL 
 
+**CMS:** Wordpress
+
 ---
 
 <p align="center">
