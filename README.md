@@ -20,15 +20,18 @@ My expertise is being forged through intense, hands-on project building and cont
 
 ## 🛠️ Tech Stack
 
-**Languages:** Javascript, Python, Java
+**Languages:**     JavaScript (ES6+), Python, Java
 
-**Frontend:** React, Next.js, Tailwind 
+**Frontend:**      React, Next.js, Tailwind CSS
 
-**Backend:** Node.js
+**Backend:**       Node.js, Next.js (API Routes)
 
-**Database:** MongoDB, PostgreSQL, GraphQL 
+**Database:**      MongoDB, PostgreSQL
 
-**CMS:** Wordpress
+**APIs & Tools:**  GraphQL, REST
+
+**CMS:**           WordPress
+
 
 ---
 
